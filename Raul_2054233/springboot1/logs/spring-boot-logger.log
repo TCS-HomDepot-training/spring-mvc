@@ -1,0 +1,18 @@
+2021-08-26 19:10:41,910 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootHelloWorldExampleApplication using Java 15.0.2 on LAPTOP-RIEI87FD with PID 13824 (C:\Cursos Tata\springboot1\target\classes started by Velkoz in C:\Cursos Tata\springboot1)
+2021-08-26 19:10:41,917 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 19:10:41,917 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-08-26 19:10:44,276 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootHelloWorldExampleApplication in 3.261 seconds (JVM running for 4.51)
+2021-08-26 19:10:44,281 INFO com.example.demo.CommandLineRunnerBean [main] data1,data2,data3
+2021-08-26 19:10:44,283 INFO com.example.demo.SpringBootHelloWorldExampleApplication [main] WELCOME TO THE WORLD OF SPRING
+2021-08-26 19:11:19,340 TRACE com.example.demo.controller.HelloWorldController [http-nio-9869-exec-1] A TRACE Message
+2021-08-26 19:11:19,341 DEBUG com.example.demo.controller.HelloWorldController [http-nio-9869-exec-1] A DEBUG Message
+2021-08-26 19:11:19,341 INFO com.example.demo.controller.HelloWorldController [http-nio-9869-exec-1] An INFO Message
+2021-08-26 19:11:19,341 WARN com.example.demo.controller.HelloWorldController [http-nio-9869-exec-1] A WARN Message
+2021-08-26 19:11:19,342 ERROR com.example.demo.controller.HelloWorldController [http-nio-9869-exec-1] An ERROR Message
+2021-08-26 19:11:19,343 INFO com.example.demo.controller.HelloWorldController [http-nio-9869-exec-1] WELCOME TO THE WORLD OF SPRING on http://localhost:9869/bootcamp/demo/
+2021-08-26 19:11:21,978 TRACE com.example.demo.controller.HelloWorldController [http-nio-9869-exec-2] A TRACE Message
+2021-08-26 19:11:21,978 DEBUG com.example.demo.controller.HelloWorldController [http-nio-9869-exec-2] A DEBUG Message
+2021-08-26 19:11:21,979 INFO com.example.demo.controller.HelloWorldController [http-nio-9869-exec-2] An INFO Message
+2021-08-26 19:11:21,979 WARN com.example.demo.controller.HelloWorldController [http-nio-9869-exec-2] A WARN Message
+2021-08-26 19:11:21,980 ERROR com.example.demo.controller.HelloWorldController [http-nio-9869-exec-2] An ERROR Message
+2021-08-26 19:11:21,981 INFO com.example.demo.controller.HelloWorldController [http-nio-9869-exec-2] WELCOME TO THE WORLD OF SPRING on http://localhost:9869/bootcamp/demo/
