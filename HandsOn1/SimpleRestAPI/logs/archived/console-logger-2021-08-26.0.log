@@ -1,0 +1,115 @@
+2021-08-26 20:47:09,929 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 11243 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 20:47:09,931 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 20:47:09,932 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 20:47:10,771 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.14 seconds (JVM running for 1.631)
+2021-08-26 20:47:10,773 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 21:46:31,227 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 12737 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 21:46:31,230 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 21:46:31,230 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 21:46:32,100 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.178 seconds (JVM running for 1.574)
+2021-08-26 21:46:32,102 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 21:47:13,769 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Getting dog list
+2021-08-26 21:51:43,840 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-5] Getting dog list
+2021-08-26 22:01:43,684 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 14997 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:01:43,687 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:01:43,687 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:01:44,626 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.248 seconds (JVM running for 1.716)
+2021-08-26 22:01:44,628 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:01:58,421 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Getting dog list
+2021-08-26 22:02:51,143 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 15660 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:02:51,146 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:02:51,146 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:02:52,090 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.282 seconds (JVM running for 1.776)
+2021-08-26 22:02:52,091 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:08:06,055 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-6] Error saving dog
+2021-08-26 22:08:52,979 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 16316 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:08:52,981 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:08:52,982 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:08:54,009 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.385 seconds (JVM running for 2.415)
+2021-08-26 22:08:54,011 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:09:18,509 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Error saving dog
+2021-08-26 22:10:01,954 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-4] Error saving dog
+2021-08-26 22:10:16,519 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 16441 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:10:16,521 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:10:16,522 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:10:17,333 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.12 seconds (JVM running for 1.51)
+2021-08-26 22:10:17,334 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:11:26,767 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 16526 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:11:26,769 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:11:26,769 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:11:27,648 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.223 seconds (JVM running for 1.707)
+2021-08-26 22:11:27,649 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:11:39,996 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-1] Error saving dog
+2021-08-26 22:11:47,336 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 16623 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:11:47,338 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:11:47,339 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:11:48,346 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.406 seconds (JVM running for 1.926)
+2021-08-26 22:11:48,347 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:12:19,487 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-1] Error saving dog
+2021-08-26 22:12:39,704 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Error saving dog
+2021-08-26 22:12:53,126 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 16737 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:12:53,128 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:12:53,129 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:12:53,955 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.13 seconds (JVM running for 1.503)
+2021-08-26 22:12:53,956 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:13:09,108 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-1] Updating dog Dog(name=Benito, breed=Chihuahua)
+2021-08-26 22:13:43,167 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 16846 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:13:43,169 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:13:43,169 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:13:44,024 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.181 seconds (JVM running for 1.584)
+2021-08-26 22:13:44,026 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:13:55,504 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Updating dog Dog(name=Benito, breed=Chihuahua)
+2021-08-26 22:14:13,694 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-5] Updating dog Dog(name=Panochuno, breed=Velga)
+2021-08-26 22:15:55,363 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 16961 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:15:55,365 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:15:55,365 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:15:56,271 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.216 seconds (JVM running for 1.604)
+2021-08-26 22:15:56,274 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:16:02,306 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Updating dog Dog(name=Panochuno, breed=Velga)
+2021-08-26 22:16:13,954 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-4] Updating dog Dog(name=Pivodi, breed=French)
+2021-08-26 22:16:23,762 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-5] Updating dog Dog(name=Dora, breed=Chihuahua)
+2021-08-26 22:17:07,216 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-8] Dont exist : Pivodi
+2021-08-26 22:17:47,215 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 17109 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:17:47,217 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:17:47,217 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:17:48,256 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.457 seconds (JVM running for 2.066)
+2021-08-26 22:17:48,258 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:17:51,380 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-1] Updating dog Dog(name=Dora, breed=Chihuahua)
+2021-08-26 22:18:36,210 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Dont exist : Dora
+2021-08-26 22:19:04,129 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 17226 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:19:04,132 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:19:04,132 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:19:05,166 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.426 seconds (JVM running for 1.972)
+2021-08-26 22:19:05,168 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:19:07,464 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-2] Updating dog Dog(name=Dora, breed=Chihuahua)
+2021-08-26 22:21:46,027 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Dont exist : Dora
+2021-08-26 22:23:42,579 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 17406 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 22:23:42,581 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 22:23:42,581 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 22:23:43,396 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.113 seconds (JVM running for 1.504)
+2021-08-26 22:23:43,397 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 22:24:01,567 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-2] Updating dog Dog(name=Dora, breed=Chihuahua)
+2021-08-26 22:24:06,007 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-4] Removing dog: Dora
+2021-08-26 22:24:11,006 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-6] Dont exist : Dora
+2021-08-26 23:52:28,192 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 4657 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 23:52:28,194 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 23:52:28,194 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 23:52:29,043 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.192 seconds (JVM running for 1.613)
+2021-08-26 23:52:29,044 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 23:53:45,215 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Updating dog Dog(name=Dora, breed=Chihuahua)
+2021-08-26 23:53:53,158 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-4] Updating dog Dog(name=Gizmo, breed=Puddle)
+2021-08-26 23:54:04,473 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-5] Updating dog Dog(name=Benito, breed=Boxer)
+2021-08-26 23:54:17,310 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-7] Removing dog: Dora
+2021-08-26 23:55:14,507 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SimpleRestApiApplication using Java 1.8.0_292 on tiovillegaz with PID 5027 (/home/tiovillegaz/IdeaProjects/SimpleRestAPI/target/classes started by tiovillegaz in /home/tiovillegaz/IdeaProjects/SimpleRestAPI)
+2021-08-26 23:55:14,509 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26 23:55:14,509 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-26 23:55:15,370 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SimpleRestApiApplication in 1.203 seconds (JVM running for 1.585)
+2021-08-26 23:55:15,372 INFO com.example.simplerestapi.SimpleRestApiApplication [restartedMain] WELCOME TO THE WORLD OF SPRING
+2021-08-26 23:55:24,622 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-3] Updating dog Dog(name=Benito, breed=Boxer)
+2021-08-26 23:55:34,074 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-4] Updating dog Dog(name=Dora, breed=Chihuahua)
+2021-08-26 23:55:44,876 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-5] Updating dog Dog(name=Lelo, breed=small)
+2021-08-26 23:55:52,947 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-6] Updating dog Dog(name=Perra, breed=Perrita)
+2021-08-26 23:56:04,712 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-8] Removing dog: Dora
+2021-08-26 23:56:27,285 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-10] Updating dog Optional[Dog(name=Lelo, breed=Caca)]
+2021-08-26 23:56:34,633 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-1] Updating dog Optional[Dog(name=Lelo, breed=Caca)]
+2021-08-26 23:56:43,007 INFO com.example.simplerestapi.service.DogsServiceImpl [http-nio-9869-exec-4] Updating dog Dog(name=Lelosss, breed=Caca)

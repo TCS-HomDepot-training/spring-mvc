@@ -1,0 +1,23 @@
+#GET ALL
+curl --location --request GET 'http://localhost:9869/bootcamp/demo/dogs'
+
+#GET BY NAME
+curl --location --request GET 'http://localhost:9869/bootcamp/demo/dogs/Pivodi'
+
+#POST
+curl --location --request POST 'http://localhost:9869/bootcamp/demo/dogs' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "name": "Pivodi",
+    "breed": "Puddle"
+}'
+
+#DELETE
+curl --location --request DELETE 'http://localhost:9869/bootcamp/demo/dogs/Max'
+
+#PUT
+curl --location --request PUT 'http://localhost:9869/bootcamp/demo/dogs/Pivodi' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "breed": "Boxer"
+}'

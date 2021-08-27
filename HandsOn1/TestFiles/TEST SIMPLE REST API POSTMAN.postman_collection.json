@@ -1,0 +1,137 @@
+{
+	"info": {
+		"_postman_id": "4c1d057b-229c-40c3-97b6-a779a3915348",
+		"name": "TEST SIMPLE REST API POSTMAN",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET ALL",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9869/bootcamp/demo/dogs",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9869",
+					"path": [
+						"bootcamp",
+						"demo",
+						"dogs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET BY NAME",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9869/bootcamp/demo/dogs/Benito",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9869",
+					"path": [
+						"bootcamp",
+						"demo",
+						"dogs",
+						"Benito"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Pivodi\",\n    \"breed\": \"Puddle\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:9869/bootcamp/demo/dogs",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9869",
+					"path": [
+						"bootcamp",
+						"demo",
+						"dogs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9869/bootcamp/demo/dogs/Max",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9869",
+					"path": [
+						"bootcamp",
+						"demo",
+						"dogs",
+						"Max"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"breed\": \"Boxer\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:9869/bootcamp/demo/dogs/Pivodi",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9869",
+					"path": [
+						"bootcamp",
+						"demo",
+						"dogs",
+						"Pivodi"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
