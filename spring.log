@@ -1,0 +1,27 @@
+2021-08-26 16:36:51.412  INFO 3890 --- [restartedMain] c.t.t.ServingWebContentApplication       : Starting ServingWebContentApplication using Java 11.0.12 on Baltazars-MacBook-Air.local with PID 3890 (/Users/baltazarhurtado/Documents/TATA/Upskills/spring-mvc/target/classes started by baltazarhurtado in /Users/baltazarhurtado/Documents/TATA/Upskills/spring-mvc)
+2021-08-26 16:36:51.416  INFO 3890 --- [restartedMain] c.t.t.ServingWebContentApplication       : No active profile set, falling back to default profiles: default
+2021-08-26 16:36:51.511  INFO 3890 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-26 16:36:51.512  INFO 3890 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-26 16:36:52.686  INFO 3890 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-08-26 16:36:52.749  INFO 3890 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 56 ms. Found 1 JPA repository interfaces.
+2021-08-26 16:36:53.669  INFO 3890 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9869 (http)
+2021-08-26 16:36:53.680  INFO 3890 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-08-26 16:36:53.680  INFO 3890 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-08-26 16:36:53.797  INFO 3890 --- [restartedMain] o.a.c.c.C.[.[.[/bootcamp/demo]           : Initializing Spring embedded WebApplicationContext
+2021-08-26 16:36:53.797  INFO 3890 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2284 ms
+2021-08-26 16:36:54.134  INFO 3890 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-08-26 16:36:54.544  INFO 3890 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-08-26 16:36:54.639  INFO 3890 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-08-26 16:36:54.697  INFO 3890 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-08-26 16:36:54.886  INFO 3890 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-26 16:36:54.992  INFO 3890 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-08-26 16:36:55.496  INFO 3890 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-26 16:36:55.510  INFO 3890 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-08-26 16:36:56.063  WARN 3890 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-08-26 16:36:56.401  INFO 3890 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2021-08-26 16:36:56.594  INFO 3890 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-08-26 16:36:56.657  INFO 3890 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9869 (http) with context path '/bootcamp/demo'
+2021-08-26 16:36:56.672  INFO 3890 --- [restartedMain] c.t.t.ServingWebContentApplication       : Started ServingWebContentApplication in 6.312 seconds (JVM running for 7.121)
+2021-08-26 16:38:23.600  INFO 3890 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-08-26 16:38:23.613  INFO 3890 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-08-26 16:38:23.636  INFO 3890 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
